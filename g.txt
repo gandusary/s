@@ -11,3 +11,6 @@ Bengaluru
 Carvar
 Carnival
 KSRTC
+
+school
+college
